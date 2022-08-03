@@ -1,0 +1,4 @@
+[Project]
+Manager=KDevGenericManager
+Name=terraform-issue-23387
+VersionControlSupport=kdevgit

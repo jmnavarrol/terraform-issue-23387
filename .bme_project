@@ -1,0 +1,11 @@
+# Environment file to be loaded by Bash interactive shell
+
+#---
+# 'MAIN' .bme_project file for this project
+#---
+BME_PROJECT_NAME='terraform_issue_23387'
+
+# BME modules' activation
+BME_MODULES=(
+	terraform-support
+)
