@@ -1,6 +1,4 @@
 # BME enviro file
-# Terraform config
-export TFENV_TERRAFORM_VERSION='1.2.6'
 
 # A friendly reminder to avoid surprises
 bme_log "${C_BOLD}Terraform version:${C_NC}"
