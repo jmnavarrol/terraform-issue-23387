@@ -1,10 +1,10 @@
 # A minimal Terraform example for https://github.com/hashicorp/terraform/issues/23387
 
 terraform {
-  required_version = "= 1.6.2"
+  required_version = "= 1.7.4"
   
   required_providers {
-    local = "= 2.2.3"
+    local = "= 2.4.1"
   }
 }
   
