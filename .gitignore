@@ -1,5 +1,6 @@
 # Local .terraform directories
 **/.terraform/*
+terraform-issue-23387.txt
 
 # .tfstate files
 *.tfstate
